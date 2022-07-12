@@ -1,4 +1,4 @@
-# Инструкция по работе с Markdown
+﻿# Инструкция по работе с Markdown
 
 ## `1. Выделение текста`
 
@@ -112,5 +112,3 @@ A3     |B3      |C3
 ### Источники:
 * [Статья на GitHub](https://gist.github.com/Jekins/2bf2d0638163f1294637 "Статья от Jekins")
 * [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet/ "Статья от Павел Радьков")
-
-fsdfsdff
